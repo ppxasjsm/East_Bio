@@ -1,4 +1,4 @@
-# Taster session on how to analyse biomolecular simulations for EaStBio DTP
+# Taster session on how to analyse biomolecular simulations for EASTBIO DTP
 
 The material was partially taken from a summer school run for [CCP5](https://github.com/CCPBioSim/CCP5_Simulation_of_BioMolecules/).
 
